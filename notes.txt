@@ -1,1 +1,4 @@
 this is plain notes for git 
+
+-- reset-demo branch
+-- another line added to reset-demo branch notes.txt file
